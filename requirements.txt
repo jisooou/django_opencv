@@ -1,0 +1,9 @@
+asgiref==3.8.1
+Django==5.1.1
+numpy==2.1.1
+opencv-python==4.10.0.84
+Pillow==8.2.0
+pybind11==2.13.6
+setuptools==75.1.0
+sqlparse==0.5.1
+wheel==0.44.0
